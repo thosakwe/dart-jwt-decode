@@ -1,0 +1,6 @@
+name: jwt_decode
+description: Decodes JSON Web tokens. Good for client use.
+version: 0.0.0
+author: Tobe O <thosakwe@gmail.com>
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
